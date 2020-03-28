@@ -1,0 +1,3519 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65,33 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Afghanistan",
+    "total_confirmed":110,
+    "total_deaths":4,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.1683,41.1533 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Albania",
+    "total_confirmed":186,
+    "total_deaths":8,
+    "total_recovered":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6596,28.0339 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Algeria",
+    "total_confirmed":409,
+    "total_deaths":26,
+    "total_recovered":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5218,42.5063 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Andorra",
+    "total_confirmed":267,
+    "total_deaths":3,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8739,-11.2027 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Angola",
+    "total_confirmed":4,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.7964,17.0608 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Antigua and Barbuda",
+    "total_confirmed":7,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.6167,-38.4161 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Argentina",
+    "total_confirmed":589,
+    "total_deaths":13,
+    "total_recovered":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0382,40.0691 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Armenia",
+    "total_confirmed":329,
+    "total_deaths":1,
+    "total_recovered":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.0124,-35.4735 ]
+    },
+    "properties": {
+    "Province/State":"Australian Capital Territory",
+    "Country/Region":"Australia",
+    "total_confirmed":62,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2093,-33.8688 ]
+    },
+    "properties": {
+    "Province/State":"New South Wales",
+    "Country/Region":"Australia",
+    "total_confirmed":1405,
+    "total_deaths":7,
+    "total_recovered":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.8456,-12.4634 ]
+    },
+    "properties": {
+    "Province/State":"Northern Territory",
+    "Country/Region":"Australia",
+    "total_confirmed":12,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.4,-28.0167 ]
+    },
+    "properties": {
+    "Province/State":"Queensland",
+    "Country/Region":"Australia",
+    "total_confirmed":555,
+    "total_deaths":1,
+    "total_recovered":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6007,-34.9285 ]
+    },
+    "properties": {
+    "Province/State":"South Australia",
+    "Country/Region":"Australia",
+    "total_confirmed":257,
+    "total_deaths":0,
+    "total_recovered":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9707,-41.4545 ]
+    },
+    "properties": {
+    "Province/State":"Tasmania",
+    "Country/Region":"Australia",
+    "total_confirmed":47,
+    "total_deaths":0,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9631,-37.8136 ]
+    },
+    "properties": {
+    "Province/State":"Victoria",
+    "Country/Region":"Australia",
+    "total_confirmed":574,
+    "total_deaths":3,
+    "total_recovered":171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8605,-31.9505 ]
+    },
+    "properties": {
+    "Province/State":"Western Australia",
+    "Country/Region":"Australia",
+    "total_confirmed":231,
+    "total_deaths":2,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.7751312,-25.2743988 ]
+    },
+    "properties": {
+    "Province/State":"Total Australia",
+    "Country/Region":"Australia",
+    "total_confirmed":3143,
+    "total_deaths":13,
+    "total_recovered":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5501,47.5162 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Austria",
+    "total_confirmed":7657,
+    "total_deaths":58,
+    "total_recovered":225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5769,40.1431 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Azerbaijan",
+    "total_confirmed":165,
+    "total_deaths":3,
+    "total_recovered":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3963,25.0343 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bahamas",
+    "total_confirmed":10,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.55,26.0275 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bahrain",
+    "total_confirmed":466,
+    "total_deaths":4,
+    "total_recovered":227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3563,23.685 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bangladesh",
+    "total_confirmed":48,
+    "total_deaths":5,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.5432,13.1939 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Barbados",
+    "total_confirmed":24,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.9534,53.7098 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Belarus",
+    "total_confirmed":94,
+    "total_deaths":0,
+    "total_recovered":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4,50.8333 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Belgium",
+    "total_confirmed":7284,
+    "total_deaths":289,
+    "total_recovered":858
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.5432,13.1939 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Belize",
+    "total_confirmed":2,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3158,9.3077 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Benin",
+    "total_confirmed":6,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.4336,27.5142 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bhutan",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.5887,-16.2902 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bolivia",
+    "total_confirmed":61,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6791,43.9159 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bosnia and Herzegovina",
+    "total_confirmed":237,
+    "total_deaths":4,
+    "total_recovered":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.9253,-14.235 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Brazil",
+    "total_confirmed":3417,
+    "total_deaths":92,
+    "total_recovered":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7277,4.5353 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Brunei",
+    "total_confirmed":115,
+    "total_deaths":0,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.4858,42.7339 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Bulgaria",
+    "total_confirmed":293,
+    "total_deaths":3,
+    "total_recovered":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5616,12.2383 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Burkina Faso",
+    "total_confirmed":180,
+    "total_deaths":9,
+    "total_recovered":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.956,21.9162 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Burma",
+    "total_confirmed":8,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -23.0418,16.5388 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cabo Verde",
+    "total_confirmed":5,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.9167,11.55 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cambodia",
+    "total_confirmed":99,
+    "total_deaths":0,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5021,3.848 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cameroon",
+    "total_confirmed":91,
+    "total_deaths":2,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.5765,53.9333 ]
+    },
+    "properties": {
+    "Province/State":"Alberta",
+    "Country/Region":"Canada",
+    "total_confirmed":542,
+    "total_deaths":2,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1207,49.2827 ]
+    },
+    "properties": {
+    "Province/State":"British Columbia",
+    "Country/Region":"Canada",
+    "total_confirmed":725,
+    "total_deaths":14,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6655,37.6489 ]
+    },
+    "properties": {
+    "Province/State":"Grand Princess",
+    "Country/Region":"Canada",
+    "total_confirmed":13,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.8139,53.7609 ]
+    },
+    "properties": {
+    "Province/State":"Manitoba",
+    "Country/Region":"Canada",
+    "total_confirmed":39,
+    "total_deaths":1,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.4619,46.5653 ]
+    },
+    "properties": {
+    "Province/State":"New Brunswick",
+    "Country/Region":"Canada",
+    "total_confirmed":45,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.6604,53.1355 ]
+    },
+    "properties": {
+    "Province/State":"Newfoundland and Labrador",
+    "Country/Region":"Canada",
+    "total_confirmed":102,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.7443,44.682 ]
+    },
+    "properties": {
+    "Province/State":"Nova Scotia",
+    "Country/Region":"Canada",
+    "total_confirmed":90,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3232,51.2538 ]
+    },
+    "properties": {
+    "Province/State":"Ontario",
+    "Country/Region":"Canada",
+    "total_confirmed":994,
+    "total_deaths":18,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.4168,46.5107 ]
+    },
+    "properties": {
+    "Province/State":"Prince Edward Island",
+    "Country/Region":"Canada",
+    "total_confirmed":9,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5491,52.9399 ]
+    },
+    "properties": {
+    "Province/State":"Quebec",
+    "Country/Region":"Canada",
+    "total_confirmed":2024,
+    "total_deaths":18,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.4509,52.9399 ]
+    },
+    "properties": {
+    "Province/State":"Saskatchewan",
+    "Country/Region":"Canada",
+    "total_confirmed":95,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Province/State":"Diamond Princess",
+    "Country/Region":"Canada",
+    "total_confirmed":0,
+    "total_deaths":1,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.8457,64.8255 ]
+    },
+    "properties": {
+    "Province/State":"Northwest Territories",
+    "Country/Region":"Canada",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135,64.2823 ]
+    },
+    "properties": {
+    "Province/State":"Yukon",
+    "Country/Region":"Canada",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3467712,56.1303673 ]
+    },
+    "properties": {
+    "Province/State":"Total Canada",
+    "Country/Region":"Canada",
+    "total_confirmed":4682,
+    "total_deaths":54,
+    "total_recovered":256
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.9394,6.6111 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Central African Republic",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7322,15.4542 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Chad",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.543,-35.6751 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Chile",
+    "total_confirmed":1610,
+    "total_deaths":5,
+    "total_recovered":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.2264,31.8257 ]
+    },
+    "properties": {
+    "Province/State":"Anhui",
+    "Country/Region":"China",
+    "total_confirmed":990,
+    "total_deaths":6,
+    "total_recovered":984
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4142,40.1824 ]
+    },
+    "properties": {
+    "Province/State":"Beijing",
+    "Country/Region":"China",
+    "total_confirmed":569,
+    "total_deaths":8,
+    "total_recovered":408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.874,30.0572 ]
+    },
+    "properties": {
+    "Province/State":"Chongqing",
+    "Country/Region":"China",
+    "total_confirmed":578,
+    "total_deaths":6,
+    "total_recovered":570
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.9874,26.0789 ]
+    },
+    "properties": {
+    "Province/State":"Fujian",
+    "Country/Region":"China",
+    "total_confirmed":331,
+    "total_deaths":1,
+    "total_recovered":295
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.0583,37.8099 ]
+    },
+    "properties": {
+    "Province/State":"Gansu",
+    "Country/Region":"China",
+    "total_confirmed":136,
+    "total_deaths":2,
+    "total_recovered":123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.4244,23.3417 ]
+    },
+    "properties": {
+    "Province/State":"Guangdong",
+    "Country/Region":"China",
+    "total_confirmed":1456,
+    "total_deaths":8,
+    "total_recovered":1337
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.7881,23.8298 ]
+    },
+    "properties": {
+    "Province/State":"Guangxi",
+    "Country/Region":"China",
+    "total_confirmed":254,
+    "total_deaths":2,
+    "total_recovered":250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8748,26.8154 ]
+    },
+    "properties": {
+    "Province/State":"Guizhou",
+    "Country/Region":"China",
+    "total_confirmed":146,
+    "total_deaths":2,
+    "total_recovered":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.7453,19.1959 ]
+    },
+    "properties": {
+    "Province/State":"Hainan",
+    "Country/Region":"China",
+    "total_confirmed":168,
+    "total_deaths":6,
+    "total_recovered":168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1306,39.549 ]
+    },
+    "properties": {
+    "Province/State":"Hebei",
+    "Country/Region":"China",
+    "total_confirmed":319,
+    "total_deaths":6,
+    "total_recovered":310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.7615,47.862 ]
+    },
+    "properties": {
+    "Province/State":"Heilongjiang",
+    "Country/Region":"China",
+    "total_confirmed":484,
+    "total_deaths":13,
+    "total_recovered":469
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.614,33.882 ]
+    },
+    "properties": {
+    "Province/State":"Henan",
+    "Country/Region":"China",
+    "total_confirmed":1275,
+    "total_deaths":22,
+    "total_recovered":1250
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2,22.3 ]
+    },
+    "properties": {
+    "Province/State":"Hong Kong",
+    "Country/Region":"China",
+    "total_confirmed":519,
+    "total_deaths":4,
+    "total_recovered":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2707,30.9756 ]
+    },
+    "properties": {
+    "Province/State":"Hubei",
+    "Country/Region":"China",
+    "total_confirmed":67801,
+    "total_deaths":3174,
+    "total_recovered":61732
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7088,27.6104 ]
+    },
+    "properties": {
+    "Province/State":"Hunan",
+    "Country/Region":"China",
+    "total_confirmed":1018,
+    "total_deaths":4,
+    "total_recovered":1014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9448,44.0935 ]
+    },
+    "properties": {
+    "Province/State":"Inner Mongolia",
+    "Country/Region":"China",
+    "total_confirmed":92,
+    "total_deaths":1,
+    "total_recovered":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.455,32.9711 ]
+    },
+    "properties": {
+    "Province/State":"Jiangsu",
+    "Country/Region":"China",
+    "total_confirmed":641,
+    "total_deaths":0,
+    "total_recovered":631
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.7221,27.614 ]
+    },
+    "properties": {
+    "Province/State":"Jiangxi",
+    "Country/Region":"China",
+    "total_confirmed":936,
+    "total_deaths":1,
+    "total_recovered":934
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.1923,43.6661 ]
+    },
+    "properties": {
+    "Province/State":"Jilin",
+    "Country/Region":"China",
+    "total_confirmed":95,
+    "total_deaths":1,
+    "total_recovered":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.6085,41.2956 ]
+    },
+    "properties": {
+    "Province/State":"Liaoning",
+    "Country/Region":"China",
+    "total_confirmed":128,
+    "total_deaths":2,
+    "total_recovered":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.55,22.1667 ]
+    },
+    "properties": {
+    "Province/State":"Macau",
+    "Country/Region":"China",
+    "total_confirmed":33,
+    "total_deaths":0,
+    "total_recovered":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1655,37.2692 ]
+    },
+    "properties": {
+    "Province/State":"Ningxia",
+    "Country/Region":"China",
+    "total_confirmed":75,
+    "total_deaths":0,
+    "total_recovered":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.9956,35.7452 ]
+    },
+    "properties": {
+    "Province/State":"Qinghai",
+    "Country/Region":"China",
+    "total_confirmed":18,
+    "total_deaths":0,
+    "total_recovered":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.8701,35.1917 ]
+    },
+    "properties": {
+    "Province/State":"Shaanxi",
+    "Country/Region":"China",
+    "total_confirmed":253,
+    "total_deaths":3,
+    "total_recovered":242
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1498,36.3427 ]
+    },
+    "properties": {
+    "Province/State":"Shandong",
+    "Country/Region":"China",
+    "total_confirmed":772,
+    "total_deaths":7,
+    "total_recovered":752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4491,31.202 ]
+    },
+    "properties": {
+    "Province/State":"Shanghai",
+    "Country/Region":"China",
+    "total_confirmed":468,
+    "total_deaths":5,
+    "total_recovered":334
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2922,37.5777 ]
+    },
+    "properties": {
+    "Province/State":"Shanxi",
+    "Country/Region":"China",
+    "total_confirmed":135,
+    "total_deaths":0,
+    "total_recovered":133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7103,30.6171 ]
+    },
+    "properties": {
+    "Province/State":"Sichuan",
+    "Country/Region":"China",
+    "total_confirmed":548,
+    "total_deaths":3,
+    "total_recovered":536
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.323,39.3054 ]
+    },
+    "properties": {
+    "Province/State":"Tianjin",
+    "Country/Region":"China",
+    "total_confirmed":155,
+    "total_deaths":3,
+    "total_recovered":133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.0924,31.6927 ]
+    },
+    "properties": {
+    "Province/State":"Tibet",
+    "Country/Region":"China",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.2401,41.1129 ]
+    },
+    "properties": {
+    "Province/State":"Xinjiang",
+    "Country/Region":"China",
+    "total_confirmed":76,
+    "total_deaths":3,
+    "total_recovered":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.487,24.974 ]
+    },
+    "properties": {
+    "Province/State":"Yunnan",
+    "Country/Region":"China",
+    "total_confirmed":180,
+    "total_deaths":2,
+    "total_recovered":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.0934,29.1832 ]
+    },
+    "properties": {
+    "Province/State":"Zhejiang",
+    "Country/Region":"China",
+    "total_confirmed":1247,
+    "total_deaths":1,
+    "total_recovered":1222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1361,35.8593 ]
+    },
+    "properties": {
+    "Province/State":"Total China",
+    "Country/Region":"China",
+    "total_confirmed":81897,
+    "total_deaths":3296,
+    "total_recovered":74720
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2973,4.5709 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Colombia",
+    "total_confirmed":539,
+    "total_deaths":6,
+    "total_recovered":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7587,-4.0383 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Congo (Brazzaville)",
+    "total_confirmed":4,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7587,-4.0383 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Congo (Kinshasa)",
+    "total_confirmed":51,
+    "total_deaths":3,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7534,9.7489 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Costa Rica",
+    "total_confirmed":263,
+    "total_deaths":2,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.5471,7.54 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cote d'Ivoire",
+    "total_confirmed":101,
+    "total_deaths":0,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Croatia",
+    "total_confirmed":586,
+    "total_deaths":3,
+    "total_recovered":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80,22 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cuba",
+    "total_confirmed":80,
+    "total_deaths":2,
+    "total_recovered":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.4299,35.1264 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Cyprus",
+    "total_confirmed":162,
+    "total_deaths":5,
+    "total_recovered":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.473,49.8175 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Czechia",
+    "total_confirmed":2279,
+    "total_deaths":9,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.9118,61.8926 ]
+    },
+    "properties": {
+    "Province/State":"Faroe Islands",
+    "Country/Region":"Denmark",
+    "total_confirmed":144,
+    "total_deaths":0,
+    "total_recovered":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.6043,71.7069 ]
+    },
+    "properties": {
+    "Province/State":"Greenland",
+    "Country/Region":"Denmark",
+    "total_confirmed":10,
+    "total_deaths":0,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5018,56.2639 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Denmark",
+    "total_confirmed":2046,
+    "total_deaths":52,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Diamond Princess",
+    "total_confirmed":712,
+    "total_deaths":10,
+    "total_recovered":597
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5903,11.8251 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Djibouti",
+    "total_confirmed":12,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.371,15.415 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Dominica",
+    "total_confirmed":11,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.1627,18.7357 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Dominican Republic",
+    "total_confirmed":581,
+    "total_deaths":20,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.1834,-1.8312 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Ecuador",
+    "total_confirmed":1595,
+    "total_deaths":36,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,26 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Egypt",
+    "total_confirmed":536,
+    "total_deaths":30,
+    "total_recovered":116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.8965,13.7942 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"El Salvador",
+    "total_confirmed":13,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10,1.5 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Equatorial Guinea",
+    "total_confirmed":12,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7823,15.1794 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Eritrea",
+    "total_confirmed":6,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.0136,58.5953 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Estonia",
+    "total_confirmed":575,
+    "total_deaths":1,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.4659,-26.5225 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Eswatini",
+    "total_confirmed":9,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4897,9.145 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Ethiopia",
+    "total_confirmed":16,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.065,-17.7134 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Fiji",
+    "total_confirmed":5,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26,64 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Finland",
+    "total_confirmed":1041,
+    "total_deaths":7,
+    "total_recovered":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.1258,3.9339 ]
+    },
+    "properties": {
+    "Province/State":"French Guiana",
+    "Country/Region":"France",
+    "total_confirmed":28,
+    "total_deaths":0,
+    "total_recovered":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.4068,-17.6797 ]
+    },
+    "properties": {
+    "Province/State":"French Polynesia",
+    "Country/Region":"France",
+    "total_confirmed":30,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.5833,16.25 ]
+    },
+    "properties": {
+    "Province/State":"Guadeloupe",
+    "Country/Region":"France",
+    "total_confirmed":73,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1662,-12.8275 ]
+    },
+    "properties": {
+    "Province/State":"Mayotte",
+    "Country/Region":"France",
+    "total_confirmed":50,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.618,-20.9043 ]
+    },
+    "properties": {
+    "Province/State":"New Caledonia",
+    "Country/Region":"France",
+    "total_confirmed":15,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.2471,-21.1351 ]
+    },
+    "properties": {
+    "Province/State":"Reunion",
+    "Country/Region":"France",
+    "total_confirmed":145,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.8333,17.9 ]
+    },
+    "properties": {
+    "Province/State":"Saint Barthelemy",
+    "Country/Region":"France",
+    "total_confirmed":5,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0501,18.0708 ]
+    },
+    "properties": {
+    "Province/State":"St Martin",
+    "Country/Region":"France",
+    "total_confirmed":11,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.0242,14.6415 ]
+    },
+    "properties": {
+    "Province/State":"Martinique",
+    "Country/Region":"France",
+    "total_confirmed":81,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2137,46.2276 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"France",
+    "total_confirmed":32964,
+    "total_deaths":1995,
+    "total_recovered":5700
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6094,-0.8037 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Gabon",
+    "total_confirmed":7,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.3101,13.4432 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Gambia",
+    "total_confirmed":3,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3569,42.3154 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Georgia",
+    "total_confirmed":83,
+    "total_deaths":0,
+    "total_recovered":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,51 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Germany",
+    "total_confirmed":50871,
+    "total_deaths":342,
+    "total_recovered":6658
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0232,7.9465 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Ghana",
+    "total_confirmed":137,
+    "total_deaths":4,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.8243,39.0742 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Greece",
+    "total_confirmed":966,
+    "total_deaths":28,
+    "total_recovered":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.679,12.1165 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Grenada",
+    "total_confirmed":7,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.2308,15.7835 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Guatemala",
+    "total_confirmed":28,
+    "total_deaths":1,
+    "total_recovered":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.6966,9.9456 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Guinea",
+    "total_confirmed":8,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.1804,11.8037 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Guinea-Bissau",
+    "total_confirmed":2,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.75,5 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Guyana",
+    "total_confirmed":5,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.2852,18.9712 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Haiti",
+    "total_confirmed":8,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4534,41.9029 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Holy See",
+    "total_confirmed":4,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2419,15.2 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Honduras",
+    "total_confirmed":68,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5033,47.1625 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Hungary",
+    "total_confirmed":300,
+    "total_deaths":10,
+    "total_recovered":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.0208,64.9631 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Iceland",
+    "total_confirmed":890,
+    "total_deaths":2,
+    "total_recovered":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78,21 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"India",
+    "total_confirmed":887,
+    "total_deaths":20,
+    "total_recovered":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9213,-0.7893 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Indonesia",
+    "total_confirmed":1046,
+    "total_deaths":87,
+    "total_recovered":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53,32 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Iran",
+    "total_confirmed":32332,
+    "total_deaths":2378,
+    "total_recovered":11133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44,33 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Iraq",
+    "total_confirmed":458,
+    "total_deaths":40,
+    "total_recovered":122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6921,53.1424 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Ireland",
+    "total_confirmed":2121,
+    "total_deaths":22,
+    "total_recovered":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35,31 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Israel",
+    "total_confirmed":3035,
+    "total_deaths":12,
+    "total_recovered":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12,43 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Italy",
+    "total_confirmed":86498,
+    "total_deaths":9134,
+    "total_recovered":10950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2975,18.1096 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Jamaica",
+    "total_confirmed":26,
+    "total_deaths":1,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138,36 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Japan",
+    "total_confirmed":1468,
+    "total_deaths":49,
+    "total_recovered":372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.51,31.24 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Jordan",
+    "total_confirmed":235,
+    "total_deaths":1,
+    "total_recovered":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.9237,48.0196 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Kazakhstan",
+    "total_confirmed":150,
+    "total_deaths":1,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9062,-0.0236 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Kenya",
+    "total_confirmed":31,
+    "total_deaths":1,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,36 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Korea, South",
+    "total_confirmed":9332,
+    "total_deaths":139,
+    "total_recovered":4528
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.902977,42.602636 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Kosovo",
+    "total_confirmed":86,
+    "total_deaths":1,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.75,29.5 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Kuwait",
+    "total_confirmed":225,
+    "total_deaths":0,
+    "total_recovered":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.7661,41.2044 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Kyrgyzstan",
+    "total_confirmed":58,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.495496,19.85627 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Laos",
+    "total_confirmed":6,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6032,56.8796 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Latvia",
+    "total_confirmed":280,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8623,33.8547 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Lebanon",
+    "total_confirmed":391,
+    "total_deaths":8,
+    "total_recovered":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.4295,6.4281 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Liberia",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.228331,26.3351 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Libya",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.55,47.14 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Liechtenstein",
+    "total_confirmed":56,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.8813,55.1694 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Lithuania",
+    "total_confirmed":358,
+    "total_deaths":5,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1296,49.8153 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Luxembourg",
+    "total_confirmed":1605,
+    "total_deaths":15,
+    "total_recovered":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8691,-18.7669 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Madagascar",
+    "total_confirmed":26,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5,2.5 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Malaysia",
+    "total_confirmed":2161,
+    "total_deaths":26,
+    "total_recovered":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.2207,3.2028 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Maldives",
+    "total_confirmed":16,
+    "total_deaths":0,
+    "total_recovered":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mali",
+    "total_confirmed":11,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3754,35.9375 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Malta",
+    "total_confirmed":139,
+    "total_deaths":0,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.9408,21.0079 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mauritania",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.5,-20.2 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mauritius",
+    "total_confirmed":94,
+    "total_deaths":2,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5528,23.6345 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mexico",
+    "total_confirmed":585,
+    "total_deaths":8,
+    "total_recovered":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3699,47.4116 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Moldova",
+    "total_confirmed":199,
+    "total_deaths":2,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4167,43.7333 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Monaco",
+    "total_confirmed":42,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8467,46.8625 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mongolia",
+    "total_confirmed":11,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.3,42.5 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Montenegro",
+    "total_confirmed":82,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0926,31.7917 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Morocco",
+    "total_confirmed":345,
+    "total_deaths":23,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Mozambique",
+    "total_confirmed":7,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4904,-22.9576 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Namibia",
+    "total_confirmed":8,
+    "total_deaths":0,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.25,28.1667 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Nepal",
+    "total_confirmed":4,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.0358,12.5186 ]
+    },
+    "properties": {
+    "Province/State":"Aruba",
+    "Country/Region":"Netherlands",
+    "total_confirmed":33,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.99,12.1696 ]
+    },
+    "properties": {
+    "Province/State":"Curacao",
+    "Country/Region":"Netherlands",
+    "total_confirmed":8,
+    "total_deaths":1,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0548,18.0425 ]
+    },
+    "properties": {
+    "Province/State":"Sint Maarten",
+    "Country/Region":"Netherlands",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2913,52.1326 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Netherlands",
+    "total_confirmed":8603,
+    "total_deaths":546,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.886,-40.9006 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"New Zealand",
+    "total_confirmed":368,
+    "total_deaths":0,
+    "total_recovered":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2072,12.8654 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Nicaragua",
+    "total_confirmed":2,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0817,17.6078 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Niger",
+    "total_confirmed":10,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6753,9.082 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Nigeria",
+    "total_confirmed":70,
+    "total_deaths":1,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7453,41.6086 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"North Macedonia",
+    "total_confirmed":219,
+    "total_deaths":3,
+    "total_recovered":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4689,60.472 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Norway",
+    "total_confirmed":3755,
+    "total_deaths":19,
+    "total_recovered":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57,21 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Oman",
+    "total_confirmed":131,
+    "total_deaths":0,
+    "total_recovered":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.3451,30.3753 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Pakistan",
+    "total_confirmed":1373,
+    "total_deaths":11,
+    "total_recovered":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7821,8.538 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Panama",
+    "total_confirmed":674,
+    "total_deaths":9,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.9555,-6.315 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Papua New Guinea",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.4438,-23.4425 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Paraguay",
+    "total_confirmed":52,
+    "total_deaths":3,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0152,-9.19 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Peru",
+    "total_confirmed":635,
+    "total_deaths":11,
+    "total_recovered":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122,13 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Philippines",
+    "total_confirmed":803,
+    "total_deaths":54,
+    "total_recovered":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.1451,51.9194 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Poland",
+    "total_confirmed":1389,
+    "total_deaths":16,
+    "total_recovered":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.2245,39.3999 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Portugal",
+    "total_confirmed":4268,
+    "total_deaths":76,
+    "total_recovered":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.1839,25.3548 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Qatar",
+    "total_confirmed":562,
+    "total_deaths":0,
+    "total_recovered":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.9668,45.9432 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Romania",
+    "total_confirmed":1292,
+    "total_deaths":26,
+    "total_recovered":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90,60 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Russia",
+    "total_confirmed":1036,
+    "total_deaths":4,
+    "total_recovered":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8739,-1.9403 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Rwanda",
+    "total_confirmed":54,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Saint Kitts and Nevis",
+    "total_confirmed":2,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.9789,13.9094 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Saint Lucia",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2872,12.9843 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Saint Vincent and the Grenadines",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4578,43.9424 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"San Marino",
+    "total_confirmed":223,
+    "total_deaths":21,
+    "total_recovered":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45,24 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Saudi Arabia",
+    "total_confirmed":1104,
+    "total_deaths":3,
+    "total_recovered":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.4524,14.4974 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Senegal",
+    "total_confirmed":119,
+    "total_deaths":0,
+    "total_recovered":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.0059,44.0165 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Serbia",
+    "total_confirmed":457,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.492,-4.6796 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Seychelles",
+    "total_confirmed":7,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8333,1.2833 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Singapore",
+    "total_confirmed":732,
+    "total_deaths":2,
+    "total_recovered":183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699,48.669 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Slovakia",
+    "total_confirmed":269,
+    "total_deaths":0,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.9955,46.1512 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Slovenia",
+    "total_confirmed":632,
+    "total_deaths":9,
+    "total_recovered":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.1996,5.1521 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Somalia",
+    "total_confirmed":3,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.9375,-30.5595 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"South Africa",
+    "total_confirmed":1170,
+    "total_deaths":1,
+    "total_recovered":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4,40 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Spain",
+    "total_confirmed":65719,
+    "total_deaths":5138,
+    "total_recovered":9357
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81,7 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Sri Lanka",
+    "total_confirmed":106,
+    "total_deaths":0,
+    "total_recovered":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.2176,12.8628 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Sudan",
+    "total_confirmed":3,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0278,3.9193 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Suriname",
+    "total_confirmed":8,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16,63 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Sweden",
+    "total_confirmed":3069,
+    "total_deaths":105,
+    "total_recovered":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2275,46.8182 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Switzerland",
+    "total_confirmed":12928,
+    "total_deaths":231,
+    "total_recovered":1530
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815,34.802075 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Syria",
+    "total_confirmed":5,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121,23.7 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Taiwan*",
+    "total_confirmed":267,
+    "total_deaths":2,
+    "total_recovered":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8888,-6.369 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Tanzania",
+    "total_confirmed":13,
+    "total_deaths":0,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101,15 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Thailand",
+    "total_confirmed":1136,
+    "total_deaths":5,
+    "total_recovered":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.727539,-8.874217 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Timor-Leste",
+    "total_confirmed":1,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8248,8.6195 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Togo",
+    "total_confirmed":25,
+    "total_deaths":1,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.2225,10.6918 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Trinidad and Tobago",
+    "total_confirmed":66,
+    "total_deaths":2,
+    "total_recovered":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9,34 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Tunisia",
+    "total_confirmed":227,
+    "total_deaths":6,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2433,38.9637 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Turkey",
+    "total_confirmed":5698,
+    "total_deaths":92,
+    "total_recovered":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32,1 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Uganda",
+    "total_confirmed":23,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1656,48.3794 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Ukraine",
+    "total_confirmed":310,
+    "total_deaths":5,
+    "total_recovered":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54,24 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"United Arab Emirates",
+    "total_confirmed":405,
+    "total_deaths":2,
+    "total_recovered":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7505,32.3078 ]
+    },
+    "properties": {
+    "Province/State":"Bermuda",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":17,
+    "total_deaths":0,
+    "total_recovered":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2546,19.3133 ]
+    },
+    "properties": {
+    "Province/State":"Cayman Islands",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":8,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3644,49.3723 ]
+    },
+    "properties": {
+    "Province/State":"Channel Islands",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":88,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3536,36.1408 ]
+    },
+    "properties": {
+    "Province/State":"Gibraltar",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":55,
+    "total_deaths":0,
+    "total_recovered":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.5481,54.2361 ]
+    },
+    "properties": {
+    "Province/State":"Isle of Man",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":29,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.1874,16.7425 ]
+    },
+    "properties": {
+    "Province/State":"Montserrat",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":5,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.436,55.3781 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"United Kingdom",
+    "total_confirmed":14543,
+    "total_deaths":759,
+    "total_recovered":135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.7658,-32.5228 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Uruguay",
+    "total_confirmed":238,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7129,37.0902 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"US",
+    "total_confirmed":101657,
+    "total_deaths":1581,
+    "total_recovered":869
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.5853,41.3775 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Uzbekistan",
+    "total_confirmed":88,
+    "total_deaths":1,
+    "total_recovered":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.5897,6.4238 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Venezuela",
+    "total_confirmed":107,
+    "total_deaths":1,
+    "total_recovered":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108,16 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Vietnam",
+    "total_confirmed":163,
+    "total_deaths":0,
+    "total_recovered":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2332,31.9522 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"West Bank and Gaza",
+    "total_confirmed":91,
+    "total_deaths":1,
+    "total_recovered":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2833,-15.4167 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Zambia",
+    "total_confirmed":22,
+    "total_deaths":0,
+    "total_recovered":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30,-20 ]
+    },
+    "properties": {
+    "Province/State":"",
+    "Country/Region":"Zimbabwe",
+    "total_confirmed":5,
+    "total_deaths":1,
+    "total_recovered":0
+    }
+  }
+]
+}
