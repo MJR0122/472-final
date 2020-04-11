@@ -27,7 +27,11 @@ Screenshot:
 <img width="1280" alt="Accessing" src="https://user-images.githubusercontent.com/59896936/79033673-fbd1d400-7b64-11ea-8a19-81d73949893f.png">
 
 Mapbox Grocery store data: 
+
 neshma.ck8gg4eka00jb2kq1v9um1j0g-3afsl
 
 Mapbox Studio style: 
+
 mapbox://styles/jrma/ck8ckimbq33fm1ipcpbonjdpv
+
+mapbox://styles/soppp16/ck8c64wjg110a1ir6045b59wn
